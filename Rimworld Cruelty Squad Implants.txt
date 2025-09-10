@@ -20,7 +20,7 @@ Life Sensor (eyes) [A]
 Skull Gun (head (brain??))
 - Gives a Diabolus-like turret to the pawn
 - -10% Consciousness
-- minor brain damage every shot
+- -10% Hediff Consciousness each shot, duration ~3x firing time?
 
 Goo Overdrive (head?)
 - ???
@@ -36,6 +36,8 @@ Eyes of Corporate Insight (eyes) [A]
 
 Nightmare Vision Goggles (eyes) [A]
 - part efficiency 80%
+- sightstealer detection radius?
+- dark study efficency?
 - ignore darkness penalties
 
 Night Vision Goggles (eyes) [A]
@@ -93,7 +95,7 @@ Military Camouflage (torso) [A]
 
 Stealth Suit (torso)
 - give em revenant/sightsteal inv idk
-- -2 beauty
+- -2 beauty (ugly debuffs)
 - -10% social impact
 
 Bouncy Suit (torso)
