@@ -42,6 +42,39 @@
     </appliedOnFixedBodyParts>
     <addsHediff>SimpleFinger</addsHediff>
   </RecipeDef>
+
+  <!-- Zoom n' Go Bionic Eyes -->
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+    <defName>InstallZoomNGoBionicEye</defName>
+    <label>install zoom n go bionic eye</label>
+    <description>Install a zoom n go bionic eye.</description>
+    <descriptionHyperlinks>
+      <ThingDef>ZoomNGoBionicEye</ThingDef>
+    </descriptionHyperlinks>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Popping in a Zoom N Go Bionic Eye.</jobString>
+    <workAmount>250</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ZoomNGoBionicEye</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>ZoomNGoBionicEye</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Eye</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>ZoomNGoBionicEye</addsHediff>
+  </RecipeDef>
+
   <!-- Simple toe -->
   <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallSimpleToe</defName>

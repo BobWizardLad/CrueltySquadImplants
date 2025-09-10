@@ -35,6 +35,40 @@
       <researchPrerequisite>Smithing</researchPrerequisite>
     </recipeMaker>
   </ThingDef>
+
+  <!-- Zoom n' Go Bionic Eyes -->
+  <ThingDef ParentName="BodyPartProstheticBase">
+    <defName>ZoomNGoBionicEye</defName>
+    <label>zoom n go bionic eye</label>
+    <description>Thanks to the easy plug and play eyemplantation it's easy to just pop these in. Improved aim.</description>
+    <techLevel>Spacer</techLevel>
+    <descriptionHyperlinks>
+      <RecipeDef>InstallZoomNGoBionicEye</RecipeDef>
+    </descriptionHyperlinks>
+    <statBases>
+      <MarketValue>180</MarketValue>
+      <Mass>1</Mass>
+    </statBases>
+    <techHediffsTags>
+      <li>Advanced</li>
+    </techHediffsTags>
+    <costList>
+      <Plasteel>10</Plasteel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <workAmount>400</workAmount>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <effectWorking>Smith</effectWorking>
+      <soundWorking>Recipe_Smith</soundWorking>
+      <recipeUsers>
+        <li>FabricationBench</li>
+      </recipeUsers>
+      <researchPrerequisite>Bionics</researchPrerequisite>
+    </recipeMaker>
+  </ThingDef>
+
   <!-- Simple toe -->
   <ThingDef ParentName="BodyPartProstheticBase">
     <defName>SimpleToe</defName>
