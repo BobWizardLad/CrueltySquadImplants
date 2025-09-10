@@ -1,0 +1,190 @@
+Rimworld Cruelty Squad Implants
+
+-=-HEAD-=-
+
+Composite Helm (head) [A]
+- simple helmet stats (yes its an implant)
+ OR (if it can be done)
+- negate damage <=5 (chance to break) (this one is more accurate to in game but uh idk if it can be done) (surely?)
+
+Zoom n Go Bionic Eyes (eyes) [I]
+- part efficiency 110%
+- +3 Shooting Accuracy (same as gunlink)
+- Make the affected eye green (like bionic are red)
+
+Life Sensor (eyes) [A]
+- part efficiency 110%
+- ¯\_(ツ)_/¯
+
+Skull Gun (head (brain??))
+- Gives a Diabolus-like turret to the pawn
+- -10% Consciousness
+- minor brain damage every shot
+
+Goo Overdrive (head?)
+- ???
+
+Cortical Scaledown+ [A]
+- change bodysize to 0.2
+
+Tattered Rain Hat (head) [A]
+- fishing buffs (not familiar with fishing stats lol)
+
+Eyes of Corporate Insight (eyes) [A]
+- +10% trade price improvement
+
+Nightmare Vision Goggles (eyes) [A]
+- part efficiency 80%
+- ignore darkness penalties
+
+Night Vision Goggles (eyes) [A]
+- part efficiency 98%
+- ignore darkness penalties
+
+Holy Scope (eyes)
+- unlikely
+
+Flowerchute (head)
+- can't imagine
+
+-=-CHEST-=-
+
+CSIJ Level II Body Armor (torso) [A]
+- same as a flak vest(?)
+
+CSIJ Level IIB Body Armor (torso) [A]
+- same as a flak vest(?)
+
+CSIJ Level III Body Armor (torso) [A]
+- same as a better flak vest(?)
+- 0.05 move speed
+
+CSIJ Level IV Body Armor (torso) [A]
+- same as a (much) better flak jacket
+- 0.1 move speed
+
+CSIJ Level V Biosuit (torso) [A]
+- full body armor
+- +30% Armor-Sharp
+- +25% Armor-Blunt
+- -20 Beauty
+- -15 Social stat(?)
+- -10% sight
+
+CSIJ Level VI Golem Exosystem (torso)
+- full body armor
+- +30% Armor-Sharp
+- +25% Armor-Blunt
+- no weapons
+- Gives blunt melee atk (like power claw)
+
+Tactical Blast Shield (torso) [A]
+- no damage from explosions
+
+Load Bearing Vest (torso) [A]
+- -20% Ranged cooldown multiplier (same as a Heavy Bandolier)
+
+Hazmat Suit (torso) [A]
+- immune to toxic buildup
+
+Military Camouflage (torso) [A]
+- reduces enemy accuracy against you (i have no idea how this is calculated but however smokepop works just do that but maybe weaker idk)
+
+Stealth Suit (torso)
+- give em revenant/sightsteal inv idk
+- -2 beauty
+- -10% social impact
+
+Bouncy Suit (torso)
+- I have no damn clue
+
+Extravagant Suit (torso) [A]
+- +2 beauty
+- +10% social impact
+- +10% trade price improvement
+- any damage will instantly kill you / pain threshold
+
+Biothruster (torso)
+- give an ability like the Sanguophage jump, but much shorter range (and free)
+- on use, makes a disgusting mess
+
+Biojet (torso)
+- this game is 2D man idk I can't imagine a difference
+
+-=-ARMS-=-
+
+HE Grenade (hand)
+- give ability to throw a grenade
+- 2 uses (cooldown? reload cost?)
+
+Flechette Grenade (hand)
+- give ability to throw a grenade that shoots many bullets
+- 2 uses (cooldown? reload cost?)
+
+ZZzzz Special Sedative Grenade (hand)
+- give ability to throw a grenade that instantly drains the rest of those hit (and hopefully forces them asleep?)
+- 2 uses (cooldown? reload cost?)
+
+First Aid Kit (hand)
+- give ability for a weaker Sanguophage Coagulate
+- 1 uses (cooldown? reload cost?)
+
+Zomy X-200 Portable Cassette Player (hand)
+- some kinda rec fill around the holder? idk
+
+Augmented Arms (arm) [A]
+- part efficiency 110%
+- big melee buff/atk?
+- range up on grenades?
+
+Abominator (hand)
+- i have no god damn clue
+
+Grappendix (arm)
+- uh vanilla expanded pirates (i think) has a grappling hook suit so uh however that do, we does
+
+Angular Advantage Tactical Munitions (hand)
+- i cannot fathom, but I can dream
+
+Ammunition Gland (arm) [A]
+- -20% Ranged cooldown multiplier (same as a Heavy Bandolier)
+
+Cursed Torch (hand)
+- make em glow? is that possible? does rimworld support dynamic lights like that? i've never seen it i realise
+- heal (1 to random damaged part) on kill
+- take more damage
+
+-=-LEGS-=-
+
+Speed Enhancer Gland (leg) [A]
+- part efficiency 120%
+- x102 Incoming Damage Multiplier
+
+Speed Enhancer Node Cluster (leg) [A]
+- part efficiency 140%
+- x105 Incoming Damage Multiplier 
+
+Speed Enhancer Total Organ Package (leg) [A]
+- part efficiency 160%
+- x110 Incoming Damage Multiplier
+
+Alien Leg Wetware (leg) [A]
+- crazy kick melee atk?
+
+Pneumatic Legs (leg)
+- no
+
+Vertical Entry Device (leg)
+- damn
+
+Icaros Machine (leg)
+- clue,
+
+Gunkboosters (foot)
+- dude
+
+Funkgrunters (foot)
+- this game is 2D, damn
+
+Microbial Oil Secretion Glands (foot) [A]
+- crazy speed but slippery somehow? maybe like vehicle expanded sharp turn penalty?

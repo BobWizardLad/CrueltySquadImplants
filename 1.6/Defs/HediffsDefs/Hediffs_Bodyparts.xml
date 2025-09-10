@@ -6,6 +6,32 @@
     <defaultLabelColor>(64,138,184)</defaultLabelColor>
     <isBad>false</isBad>
   </HediffDef>
+
+  <!-- Zoom n' Go Bionic Eyes -->
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>ZoomNGoBionicEye</defName>
+    <label>zoom n go bionic eye</label>
+    <description>Thanks to the easy plug and play eyemplantation it's easy to just pop these in. Improved aim.</description>
+    <!-- Add this in after finishing the ThingDef 
+    <descriptionHyperlinks>
+      <ThingDef>ZoomNGoBionicEye</ThingDef>
+    </descriptionHyperlinks>
+    <spawnThingOnRemoved>ZoomNGoBionicEye</spawnThingOnRemoved>
+    -->
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.10</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+    <stages>
+      <li>
+        <statOffsets>
+          <ShootingAccuracyPawn>3</ShootingAccuracyPawn>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+
   <!-- Simple finger -->
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>SimpleFinger</defName>
@@ -20,6 +46,13 @@
       <partEfficiency>0.75</partEfficiency>
       <betterThanNatural>false</betterThanNatural>
     </addedPartProps>
+    <stages>
+      <li>
+        <statOffsets>
+          <FilthRate>10.0</FilthRate>
+        </statOffsets>
+      </li>
+    </stages>
   </HediffDef>
   <!-- Prosthetic toe -->
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
