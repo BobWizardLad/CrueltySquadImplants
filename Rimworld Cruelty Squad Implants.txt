@@ -11,6 +11,7 @@ Zoom n Go Bionic Eyes (eyes) [I]
 - part efficiency 110%
 - +3 Shooting Accuracy (same as gunlink)
 - Make the affected eye green (like bionic are red)
+- quick install (250 work, no meds) (500 for euthanize op)
 
 Life Sensor (eyes) [A]
 - part efficiency 110%
