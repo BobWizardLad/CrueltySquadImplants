@@ -32,6 +32,29 @@
     </stages>
   </HediffDef>
 
+  <!-- Eye of Corporate Insight -->
+  <HediffDef ParentName="AddedBodyPartDidgetsBase">
+    <defName>EyeOfCorporateInsight</defName>
+    <label>eye of corporate insight</label>
+    <description>Melt into the ancient power of the markets.</description>
+    <descriptionHyperlinks>
+      <ThingDef>EyeOfCorporateInsight</ThingDef>
+    </descriptionHyperlinks>
+    <spawnThingOnRemoved>EyeOfCorporateInsight</spawnThingOnRemoved>
+    <addedPartProps>
+      <solid>true</solid>
+      <partEfficiency>1.0</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+    <stages>
+      <li>
+        <statOffsets>
+          <TradePriceImprovement>0.10</TradePriceImprovement>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+
   <!-- Simple finger -->
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>SimpleFinger</defName>
