@@ -105,7 +105,7 @@ Extravagant Suit (torso) [A]
 - +2 beauty
 - +10% social impact
 - +10% trade price improvement
-- any damage will instantly kill you / pain threshold
+- pain shock threshold -99% (a scar will permadown a pawn in this state)
 
 Biothruster (torso)
 - give an ability like the Sanguophage jump, but much shorter range (and free)
