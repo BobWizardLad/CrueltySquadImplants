@@ -75,6 +75,38 @@
     <addsHediff>ZoomNGoBionicEye</addsHediff>
   </RecipeDef>
 
+  <!-- Eye of Corporate Insight -->
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+    <defName>InstallEyeOfCorporateInsight</defName>
+    <label>install an eye of corproate insight</label>
+    <description>Install an eye of corporate insight.</description>
+    <descriptionHyperlinks>
+      <ThingDef>EyeOfCorporateInsight</ThingDef>
+    </descriptionHyperlinks>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing an eye of corporate insight.</jobString>
+    <workAmount>250</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>EyeOfCorporateInsight</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>EyeOfCorporateInsight</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Eye</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>EyeOfCorporateInsight</addsHediff>
+  </RecipeDef>
+
   <!-- Simple toe -->
   <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallSimpleToe</defName>
