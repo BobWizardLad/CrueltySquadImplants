@@ -36,6 +36,8 @@ Eyes of Corporate Insight (eyes) [A]
 
 Nightmare Vision Goggles (eyes) [A]
 - part efficiency 80%
+- sightstealer detection radius?
+- dark study efficency?
 - ignore darkness penalties
 
 Night Vision Goggles (eyes) [A]
