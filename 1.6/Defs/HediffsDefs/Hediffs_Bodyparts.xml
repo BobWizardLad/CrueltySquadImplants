@@ -11,13 +11,11 @@
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>ZoomNGoBionicEye</defName>
     <label>zoom n go bionic eye</label>
-    <description>Thanks to the easy plug and play eyemplantation it's easy to just pop these in. Improved aim.</description>
-    <!-- Add this in after finishing the ThingDef 
+    <description>Thanks to the easy plug and play eyemplantation it's easy to just pop these in. Improved aim.</description> 
     <descriptionHyperlinks>
       <ThingDef>ZoomNGoBionicEye</ThingDef>
     </descriptionHyperlinks>
     <spawnThingOnRemoved>ZoomNGoBionicEye</spawnThingOnRemoved>
-    -->
     <addedPartProps>
       <solid>true</solid>
       <partEfficiency>1.10</partEfficiency>
