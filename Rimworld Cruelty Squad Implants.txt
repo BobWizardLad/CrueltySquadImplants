@@ -44,12 +44,6 @@ Night Vision Goggles (eyes) [A]
 - part efficiency 98%
 - ignore darkness penalties
 
-Holy Scope (eyes)
-- unlikely
-
-Flowerchute (head)
-- can't imagine
-
 -=-CHEST-=-
 
 CSIJ Level II Body Armor (torso) [A]
@@ -78,8 +72,8 @@ CSIJ Level VI Golem Exosystem (torso)
 - full body armor
 - +30% Armor-Sharp
 - +25% Armor-Blunt
-- no weapons
-- Gives blunt melee atk (like power claw)
+- no weapons (no hands?)
+- Gives blunt melee atk verbgiver (like power claw)
 
 Tactical Blast Shield (torso) [A]
 - no damage from explosions
@@ -98,21 +92,19 @@ Stealth Suit (torso)
 - -2 beauty (ugly debuffs)
 - -10% social impact
 
-Bouncy Suit (torso)
-- I have no damn clue
-
 Extravagant Suit (torso) [A]
 - +2 beauty
 - +10% social impact
 - +10% trade price improvement
-- any damage will instantly kill you / pain threshold
+- pain shock threshold -99% (a scar will permadown a pawn in this state)
 
 Biothruster (torso)
 - give an ability like the Sanguophage jump, but much shorter range (and free)
 - on use, makes a disgusting mess
+- -2 beauty
 
 Biojet (torso)
-- this game is 2D man idk I can't imagine a difference
+- Improvement over the Biothruster, even more mess?
 
 -=-ARMS-=-
 
@@ -140,9 +132,6 @@ Augmented Arms (arm) [A]
 - big melee buff/atk?
 - range up on grenades?
 
-Abominator (hand)
-- i have no god damn clue
-
 Grappendix (arm)
 - uh vanilla expanded pirates (i think) has a grappling hook suit so uh however that do, we does
 
@@ -154,8 +143,8 @@ Ammunition Gland (arm) [A]
 
 Cursed Torch (hand)
 - make em glow? is that possible? does rimworld support dynamic lights like that? i've never seen it i realise
-- heal (1 to random damaged part) on kill
-- take more damage
+- wipe a random negative hediff on kill
+- incoming damage multiplier 115%
 
 -=-LEGS-=-
 
@@ -172,22 +161,8 @@ Speed Enhancer Total Organ Package (leg) [A]
 - x110 Incoming Damage Multiplier
 
 Alien Leg Wetware (leg) [A]
-- crazy kick melee atk?
-
-Pneumatic Legs (leg)
-- no
-
-Vertical Entry Device (leg)
-- damn
-
-Icaros Machine (leg)
-- clue,
-
-Gunkboosters (foot)
-- dude
-
-Funkgrunters (foot)
-- this game is 2D, damn
+- verbgiver melee attack
 
 Microbial Oil Secretion Glands (foot) [A]
 - crazy speed but slippery somehow? maybe like vehicle expanded sharp turn penalty?
+- 130% walk speed, massive filth rate?
