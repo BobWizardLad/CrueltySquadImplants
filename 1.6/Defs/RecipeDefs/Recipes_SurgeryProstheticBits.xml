@@ -78,7 +78,7 @@
   <!-- Eye of Corporate Insight -->
   <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallEyeOfCorporateInsight</defName>
-    <label>install an eye of corproate insight</label>
+    <label>install an eye of corporate insight</label>
     <description>Install an eye of corporate insight.</description>
     <descriptionHyperlinks>
       <ThingDef>EyeOfCorporateInsight</ThingDef>
