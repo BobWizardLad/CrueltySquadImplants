@@ -166,3 +166,5 @@ Alien Leg Wetware (leg) [A]
 Microbial Oil Secretion Glands (foot) [A]
 - crazy speed but slippery somehow? maybe like vehicle expanded sharp turn penalty?
 - 130% walk speed, massive filth rate?
+
+This is a test plan text.
