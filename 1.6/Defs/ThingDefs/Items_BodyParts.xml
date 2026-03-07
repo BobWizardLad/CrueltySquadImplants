@@ -109,7 +109,7 @@
     <description>Regular night vision goggles sensitive to the geometric flow of matter.</description>
     <techLevel>Industrial</techLevel>
     <descriptionHyperlinks>
-      <RecipeDef>InstallNightVisionGoggles</RecipeDef> <!-- TODO -->
+      <RecipeDef>InstallNightVisionGoggles</RecipeDef>
     </descriptionHyperlinks>
     <statBases>
       <MarketValue>180</MarketValue>
