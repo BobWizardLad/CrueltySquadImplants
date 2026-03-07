@@ -107,6 +107,38 @@
     <addsHediff>EyeOfCorporateInsight</addsHediff>
   </RecipeDef>
 
+  <!-- Night Vision Goggles -->
+  <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
+    <defName>InstallNightVisionGoggles</defName> <!-- TODO need to test this recipe -->
+    <label>install night vision goggles</label>
+    <description>Install night vision goggles.</description>
+    <descriptionHyperlinks>
+      <ThingDef>NightVisionGoggles</ThingDef>
+    </descriptionHyperlinks>
+    <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+    <jobString>Installing night vision goggles.</jobString>
+    <workAmount>250</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>NightVisionGoggles</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>NightVisionGoggles</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <appliedOnFixedBodyParts>
+      <li>Eye</li>
+    </appliedOnFixedBodyParts>
+    <addsHediff>NightVisionGoggles</addsHediff>
+  </RecipeDef>
+  
   <!-- Simple toe -->
   <RecipeDef ParentName="SurgeryInstallBodyPartArtificialBase">
     <defName>InstallSimpleToe</defName>

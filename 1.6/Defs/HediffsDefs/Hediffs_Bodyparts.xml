@@ -53,6 +53,31 @@
     </stages>
   </HediffDef>
 
+  <!-- Night Vision Goggles -->
+  <HediffDef ParentName="AddedBodyPartDidgetsBase"> <!-- TODO test this part -->
+    <defName>NightVisionGoggles</defName>
+    <label>night vision goggles</label>
+    <description>Regular night vision goggles sensitive to the geometric flow of matter.</description>
+    <descriptionHyperlinks>
+      <ThingDef>NightVisionGoggles</ThingDef>
+    </descriptionHyperlinks>
+    <spawnThingOnRemoved>NightVisionGoggles</spawnThingOnRemoved>
+    <addedPartProps>
+      <isBionic>true</isBionic>
+      <isSolid>true</isSolid>
+      <partEfficiency>0.98</partEfficiency>
+      <betterThanNatural>true</betterThanNatural>
+    </addedPartProps>
+    <stages>
+      <li>
+        <capMods>
+          <capacity>Sight</capacity>
+          <setMin>1.0</setMin>
+        </capMods>
+      </li>
+    </stages>
+  </HediffDef>
+
   <!-- Simple finger -->
   <HediffDef ParentName="AddedBodyPartDidgetsBase">
     <defName>SimpleFinger</defName>
