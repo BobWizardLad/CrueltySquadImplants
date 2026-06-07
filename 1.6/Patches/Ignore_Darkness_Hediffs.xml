@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationConditional">
+        <xpath>Defs/ThoughtDef[defName="EnvironmentDark"]/nullifyingHediffs</xpath>
+        <nomatch Class="PatchOperationInsert">
+            <xpath>Defs/ThoughtDef[defName="EnvironmentDark"]/nullifyingTraits</xpath>
+            <value>
+                <nullifyingHediffs />
+            </value>
+        </nomatch>
+    </Operation>
+    
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/ThoughtDef[defName="EnvironmentDark"]/nullifyingHediffs</xpath>
+        <value>
+            <li>EyeOfCorporateInsight</li> <!-- Eye of corporate insight will deny darkness mood debuffs -->
+        </value>
+    </Operation>
+    
+</Patch>
