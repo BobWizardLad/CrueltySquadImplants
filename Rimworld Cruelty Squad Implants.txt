@@ -31,7 +31,7 @@ Cortical Scaledown+ [A]
 Tattered Rain Hat (head) [A]
 - fishing buffs (not familiar with fishing stats lol)
 
-Eyes of Corporate Insight (eyes) [A]
+Eyes of Corporate Insight (eyes) [I]
 - +10% trade price improvement
 
 Nightmare Vision Goggles (eyes) [A]
